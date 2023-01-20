@@ -4,7 +4,7 @@
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
-- zerioi
+- (https://github.com/zerioi9)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Parth Sharma](https://github.com/pxs4528)
 - [Samuel K. Addison](https://github.com/SamAddy)
